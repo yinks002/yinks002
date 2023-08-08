@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olayimika
-- 👀 I’m interested in blockchain dev,web dev, ml,ai
-- 🌱 I’m currently learning blockchain and web dev
-- 💞️ I’m looking to collaborate on passionate web and blockchain dev project
+- 👀 I’m interested in anythiing fun
+- 🌱 I’m currently learning something big
+- 💞️ I’m looking to collaborate on nice thing
 - 📫 How to reach me my email: olaiyaolayimikai@gmail.com
 
 <!---
